@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FileUtility": {
+      "commandName": "Project",
+      "commandLineArgs": "-search type json C:\\Users\\swong\\source\\repos\\wong-stephen\\takehome_sw\\test_data"
+    }
+  }
+}
